@@ -4,7 +4,7 @@ The data is image of healtly cells and cells infected with malaria. A healtly ce
 We use opencv to process on the image data to convert to get the conture of these cells. And, then build a random forest classifier model for our predictive ananlysis.
 
 <h2>How to setup</h2>
-1. download and extract data set.</br>
+1. download and extract data set from https://drive.google.com/file/d/1azIYjzLFCY7qp7-NjgSBvakbGgPvQlRf/view.</br>
 2. Generate_DataSet.py file process the image files to generate a datafram in cvs file.</br>
 3. Run ML_PredictiveAnalysis_MalariaDetection.py to build and train the model.</br>
 
